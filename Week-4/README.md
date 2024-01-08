@@ -46,21 +46,20 @@ To start with the visualization following steps are to be performed:
 
 ### ***Visualizing Fertility vs Life Expectancy across different regions***<br>
 
-https://github.com/tyagi-mansi11/dem/assets/144030094/9a8c0889-2695-4760-a18d-e75f9f9d55fd
+https://github.com/tyagi-mansi11/PrepInsta_Internship/assets/144030094/8fb8afab-fed1-4184-908b-cb0adc83ea27
 
 ### ***Visualizing average Fertility rate trends across different regions*** <br>
 
+![Screenshot 2024-01-06 210832](https://github.com/tyagi-mansi11/PrepInsta_Internship/assets/144030094/8b05c864-61b1-4a1f-a248-49ad686d768d)
 
-![Screenshot 2024-01-06 210832](https://github.com/tyagi-mansi11/dem/assets/144030094/6189f869-1515-492a-a4e4-0bf7c5fc89d6)
 
 ### ***Correlation Analysis*** <br>
 
-
-![Screenshot 2024-01-06 210810](https://github.com/tyagi-mansi11/dem/assets/144030094/fd22af7f-2c34-4e8e-a074-9b5b8e7501c9)
+![Screenshot 2024-01-06 210810](https://github.com/tyagi-mansi11/PrepInsta_Internship/assets/144030094/74503b3c-12f9-4108-9319-be09c0ee7cce)
 
 
 ### ***Visualizing population trends across different regions***  <br>
 
-https://github.com/tyagi-mansi11/dem/assets/144030094/973265a3-450c-4783-8991-452bbd10da33
+https://github.com/tyagi-mansi11/PrepInsta_Internship/assets/144030094/29570862-d283-4e62-9050-22abcb5e58b9
 
 
