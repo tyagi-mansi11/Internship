@@ -18,16 +18,16 @@ Explore the realm of data visualization in Python by utilizing powerful librarie
 
 ## 🗂️Libraries used 
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) Used to perform a wide variety of mathematical operations.<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) To analyze big data, make conclusions based on statistical theories, clean messy data sets, and make them readable and relevant.<br>
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) Open-source module that is used for data visualization and supports various graphs like line charts, scatter plots, bar charts, histograms, area plots, etc.<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) Comprehensive library for creating static, animated, and interactive visualizations in Python.<br>
 
 
 ##
 
 There will be some differences between the original visualisation and the one that has been used: <br> <br>
-●	More data: The talk was made in 2006 with data from 1962 to 2003. We will use data from 1960 to 2016. <br>
+●	More data: The talk was made in 2006 with data from 1962 to 2003 and data used is from 1960 to 2016. <br>
 ●	Regions: The original visualisation has five regions. We will keep the regions from the source data (i.e. seven regions). <br>
 ●	Colours: We can't get the exact colours of the regions so use colour mapping. <br>
 
